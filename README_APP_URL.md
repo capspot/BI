@@ -1,0 +1,3 @@
+# BI
+URL to BI app
+https://app.powerbi.com/view?r=eyJrIjoiZjE4N2FkYmItZWM1Zi00NWQ2LThlYmYtMjIxMzdkMGI4YjcwIiwidCI6IjRjMWE4YzI3LTZkMmMtNDI3NC1iNzM0LTg3NGI1ZDY1ZmQwZCIsImMiOjZ9
